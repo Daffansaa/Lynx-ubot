@@ -5,7 +5,7 @@ FROM daffansaa/docks:buster
 # ==========================================
 RUN git clone -b Lynx-Userbot https://github.com/daffansaa/Lynx-Ubot /home/Lynx-Ubot \
     && chmod 777 /home/Lynx-Ubot \
-    && mkdir /home/Lynx-Userbot/bin/
+    && mkdir /home/Lynx-Ubot/bin/
 
 # Copies config.env (if exists)
 COPY ./sample_config.env ./config.env* /home/Lynx-Ubot/
