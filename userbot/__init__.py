@@ -12,7 +12,7 @@ import time
 import re
 import io
 import random
-import spamwatch as spam_watch
+import spamwatch as spam_watchh
 
 from datetime import datetime
 from time import sleep
@@ -172,7 +172,7 @@ SPAMWATCH_API = os.environ.get("SPAMWATCH_API", None)
 
 if SPAMWATCH_API:
     ur_token = SPAMWATCH_API
-    spamwatch = spam_watch.Client(ur_token)
+    spamwatch = spam_watchh.Client(ur_token)
 else:
     spamwatch = None
 
