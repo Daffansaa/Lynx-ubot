@@ -1,19 +1,19 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5513591.gif" width="654" height="163" alt="Lynx Userbot" /></a>
 <p align="center"> 🚀 𝗪𝗵𝗶𝗰𝗵 𝗶𝘀 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗕𝗮𝘀𝗲𝗱 🚀</p>
 <p align="center">
-  <a href="https://github.com/KENZO-404/Lynx-Userbot/fork"><img src="https://img.shields.io/github/forks/KENZO-404/Lynx-Userbot?label=Fork&style=social"></a>
+  <a href="https://github.com/KENZO-404/Lynx-Userbot/fork"><img src="https://img.shields.io/github/forks/daffansaa/Lynx-Ubot?label=Fork&style=social"></a>
   </p>
 <p align="center">
-  <a href="https://github.com/KENZO-404/Lynx-Userbot"><img src="https://img.shields.io/github/stars/KENZO-404/Lynx-Userbot?style=social"></a>
+  <a href="https://github.com/daffansaa/Lynx-Ubot"><img src="https://img.shields.io/github/stars/daffansaa/Lynx-Ubot?style=social"></a>
   </p>
 
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/kenzo-404/lynx-userbot"><img src="https://www.codefactor.io/repository/github/kenzo-404/lynx-userbot/badge?style=for-the-badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/daffansaa/lynx-ubot"><img src="https://www.codefactor.io/repository/github/daffansaa/lynx-ubot/badge?style=for-the-badge" alt="CodeFactor" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/KENZO-404/Lynx-Userbot/commits/Lynx-Userbot"><img src="https://img.shields.io/github/last-commit/KENZO-404/Lynx-Userbot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-<a href="https://github.com/KENZO-404/Lynx-Userbot/actions/workflows/python-app.yml"><img src="https://img.shields.io/github/workflow/status/KENZO-404/Lynx-Userbot/FailChecker/Lynx-Userbot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
+<a href="https://github.com/daffansaa/Lynx-Ubot/commits/Lynx-Ubot"><img src="https://img.shields.io/github/last-commit/daffansaa/Lynx-Ubot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+<a href="https://github.com/daffansaa/Lynx-Ubot/actions/workflows/python-app.yml"><img src="https://img.shields.io/github/workflow/status/KENZO-404/Lynx-Userbot/FailChecker/Lynx-Userbot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
 </p>
 <p align="center">
 <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
